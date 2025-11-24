@@ -1,0 +1,14 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "n8n": "1.120.4"
+  }
+}
